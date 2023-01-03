@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/yug1224" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.63&b=3.75&i=3.71&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/2/2023, 12:19:38 AM
+<a href="https://lapras.com/public/yug1224" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.63&b=3.75&i=3.72&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 1/3/2023, 12:19:01 AM
 <!--END_SECTION:lapras-card-->
 
 <!--
