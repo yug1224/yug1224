@@ -2,7 +2,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/yug1224" target="_blank" rel="noopener noreferrer"><img alt="yug1224のLAPRASでのスコアは次の通りです: エンジニアリング: 3.79 / 5.0, ビジネス: 3.75 / 5.0, インフルエンス: 3.85 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.79&b=3.75&i=3.85&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/18/2023, 12:33:00 AM</p>
+Last Updated on 7/19/2023, 12:36:13 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!--
