@@ -5,6 +5,10 @@
 Last Updated on 2/23/2024, 12:18:40 AM</p>
 <!--END_SECTION:lapras-card-->
 
+### Likes and Skills
+
+[![My Skills](https://skillicons.dev/icons?perline=10&i=ts,js,html,sass,css,react,vue,jquery,redux,pinia,next,nuxt,astro,jest,sentry,vite,webpack,npm,yarn,deno,nodejs,nginx,git,github,aws,gcp,netlify,githubactions,vscode,emacs)](https://skillicons.dev)
+
 <!--
 **YuG1224/YuG1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
