@@ -12,8 +12,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/yug1224" target="_blank" rel="noopener noreferrer"><img alt="yug1224のLAPRASでのスコアは次の通りです: エンジニアリング: 4.77 / 5.0, ビジネス: 3.75 / 5.0, インフルエンス: 3.92 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.77&b=3.75&i=3.92&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 8/6/2026, 2:53:41 AM</p>
+<p ><a href="https://lapras.com/public/yug1224" target="_blank" rel="noopener noreferrer"><img alt="yug1224のLAPRASでのスコアは次の通りです: エンジニアリング: 4.76 / 5.0, ビジネス: 3.75 / 5.0, インフルエンス: 3.92 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.76&b=3.75&i=3.92&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 8/7/2026, 2:50:46 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### Likes and Skills
